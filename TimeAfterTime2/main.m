@@ -15,7 +15,7 @@ int main(int argc, const char * argv[])
         
         NSDate *now = [NSDate date];
         NSLog(@"The date now is %p", now);
-        
+        NSLog (@"the date now is %@", now);
 
         
     }
